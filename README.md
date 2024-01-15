@@ -1,4 +1,4 @@
-# Healthcare Data Analysis Project using MS - SQl & Pandas.
+# Healthcare Data Analysis Project using MS - SQL & Pandas.
 
 Welcome to the Healthcare Data Analysis project! This project aims to analyze patient medical records to identify trends and opportunities for improving care. By exploring real-world data on hospitalizations, medical exams, and patient data, we seek to better understand patient needs and health system performance. The primary goal is to showcase the value of data analysis in driving healthcare improvements.
 
